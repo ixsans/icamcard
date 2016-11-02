@@ -1,5 +1,5 @@
-# icamcard
-Camcard Integration
+# About
+This is Camcard Integration Example. Camcard is mobile app to scan business card and save it directly to your phone contacts.
 
 # How to Use
 To use Camcard Open API trial service, we need to sign up and fill information. It’s a little bit hassle to get api access. Here the steps:
